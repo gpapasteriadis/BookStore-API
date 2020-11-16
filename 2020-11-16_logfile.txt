@@ -1,0 +1,136 @@
+2020-11-16 12:32:32.7409 INFO Attempted Get All Authors
+2020-11-16 12:32:34.4645 ERROR Cannot open database "BookStore" requested by the login. The login failed.
+Login failed for user 'MicrosoftAccount\giorgospapasteriadis@gmail.com'. - 
+2020-11-16 12:34:15.1545 INFO Attempted Get All Authors
+2020-11-16 12:34:15.2376 ERROR Cannot open database "BookStore" requested by the login. The login failed.
+Login failed for user 'MicrosoftAccount\giorgospapasteriadis@gmail.com'. - 
+2020-11-16 12:35:01.7733 INFO Attempted Get All Authors
+2020-11-16 12:35:03.6599 ERROR Cannot open database "BookStore" requested by the login. The login failed.
+Login failed for user 'MicrosoftAccount\giorgospapasteriadis@gmail.com'. - 
+2020-11-16 12:36:53.8206 INFO Attempted Get All Authors
+2020-11-16 12:36:55.7096 ERROR Cannot open database "BookStore" requested by the login. The login failed.
+Login failed for user 'MicrosoftAccount\giorgospapasteriadis@gmail.com'. - 
+2020-11-16 12:37:50.2039 INFO Attempted Get All Authors
+2020-11-16 12:37:50.6078 ERROR Cannot open database "BookStore" requested by the login. The login failed.
+Login failed for user 'MicrosoftAccount\giorgospapasteriadis@gmail.com'. - 
+2020-11-16 12:40:47.9453 INFO Attempted Get All Authors
+2020-11-16 12:40:49.8624 ERROR Cannot open database "BookStore" requested by the login. The login failed.
+Login failed for user 'MicrosoftAccount\giorgospapasteriadis@gmail.com'. - 
+2020-11-16 12:43:08.2602 INFO Attempted Get All Authors
+2020-11-16 12:43:10.2327 ERROR Cannot open database "BookStore" requested by the login. The login failed.
+Login failed for user 'MicrosoftAccount\giorgospapasteriadis@gmail.com'. - 
+2020-11-16 12:44:56.3819 INFO Attempted Get All Authors
+2020-11-16 12:44:58.3102 ERROR Cannot open database "BookStore" requested by the login. The login failed.
+Login failed for user 'MicrosoftAccount\giorgospapasteriadis@gmail.com'. - 
+2020-11-16 12:45:25.8203 INFO Attempted Get All Authors
+2020-11-16 12:45:26.0548 ERROR Cannot open database "BookStore" requested by the login. The login failed.
+Login failed for user 'MicrosoftAccount\giorgospapasteriadis@gmail.com'. - 
+2020-11-16 12:45:30.6688 INFO Attempted Get All Authors
+2020-11-16 12:45:30.9011 ERROR Cannot open database "BookStore" requested by the login. The login failed.
+Login failed for user 'MicrosoftAccount\giorgospapasteriadis@gmail.com'. - 
+2020-11-16 12:50:09.5427 INFO Attempted Get All Authors
+2020-11-16 12:50:11.2848 INFO Successfully got all Authors
+2020-11-16 13:08:56.6970 INFO Attempted Get Author with id:5
+2020-11-16 13:08:58.1646 WARN Author with id:5 was not found
+2020-11-16 13:10:11.4579 INFO Attempted Get Author with id:5
+2020-11-16 13:10:11.5451 WARN Author with id:5 was not found
+2020-11-16 15:36:27.2103 INFO Author Submission Attempted
+2020-11-16 15:36:27.4098 ERROR Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Object -> Author
+System.Object -> BookStore_API.Data.Author - 
+2020-11-16 15:40:11.8670 INFO Author Submission Attempted
+2020-11-16 15:40:13.8525 INFO Author Created Successfully
+2020-11-16 15:40:36.7766 INFO Author Submission Attempted
+2020-11-16 15:40:36.8713 INFO Author Created Successfully
+2020-11-16 16:30:33.3351 INFO Attempted Get All Authors
+2020-11-16 16:30:35.2870 INFO Successfully got all Authors
+2020-11-16 16:32:20.8487 INFO Author with id:1 Update Attempted
+2020-11-16 16:32:21.2539 INFO Author with id:1 successfully updated
+2020-11-16 16:32:26.4564 INFO Attempted Get All Authors
+2020-11-16 16:32:26.4972 INFO Successfully got all Authors
+2020-11-16 16:34:30.0083 INFO Author with id:1 Update Attempted
+2020-11-16 16:34:30.0369 INFO Author with id:1 successfully updated
+2020-11-16 16:34:32.1729 INFO Attempted Get All Authors
+2020-11-16 16:34:32.2016 INFO Successfully got all Authors
+2020-11-16 16:37:41.3979 INFO Author with id:1 Update Attempted
+2020-11-16 16:37:41.4335 WARN Author update failed due to bad data given
+2020-11-16 16:40:42.4163 INFO Author with id:1 Update Attempted
+2020-11-16 16:40:44.7858 INFO Author with id:1 successfully updated
+2020-11-16 16:40:48.2432 INFO Attempted Get All Authors
+2020-11-16 16:40:48.6636 INFO Successfully got all Authors
+2020-11-16 16:53:31.1029 INFO Attempted Get All Authors
+2020-11-16 16:53:31.3578 INFO Successfully got all Authors
+2020-11-16 16:56:09.8046 INFO Author with id:1 Update Attempted
+2020-11-16 16:56:09.8319 INFO Author with id:1 successfully updated
+2020-11-16 16:56:12.4728 INFO Attempted Get All Authors
+2020-11-16 16:56:12.4988 INFO Successfully got all Authors
+2020-11-16 17:09:46.9991 INFO Attempted Get All Authors
+2020-11-16 17:09:49.3565 INFO Successfully got all Authors
+2020-11-16 17:10:01.3707 INFO Author with id: 1 Delete Attempted
+2020-11-16 17:10:01.9322 INFO Author with id: 1 successfully deleted
+2020-11-16 17:10:07.0961 INFO Attempted Get All Authors
+2020-11-16 17:10:07.1379 INFO Successfully got all Authors
+2020-11-16 17:11:33.7480 INFO Author Submission Attempted
+2020-11-16 17:11:33.8899 INFO Author Created Successfully
+2020-11-16 17:13:47.4035 INFO Attempted Get All Authors
+2020-11-16 17:13:49.7435 INFO Successfully got all Authors
+2020-11-16 17:15:16.8156 INFO Author with id: 1 Update Attempted
+2020-11-16 17:15:16.8156 WARN Author update failed due to bad data given
+2020-11-16 17:16:20.3793 INFO Author with id: 1 Update Attempted
+2020-11-16 17:16:20.3820 WARN Author update failed due to bad data given
+2020-11-16 17:17:32.2160 INFO Attempted Get All Authors
+2020-11-16 17:17:32.3064 INFO Successfully got all Authors
+2020-11-16 17:17:43.7555 INFO Author with id: 1 Update Attempted
+2020-11-16 17:17:44.4881 ERROR Database operation expected to affect 1 row(s) but actually affected 0 row(s). Data may have been modified or deleted since entities were loaded. See http://go.microsoft.com/fwlink/?LinkId=527962 for information on understanding and handling optimistic concurrency exceptions. - 
+2020-11-16 17:18:42.6406 INFO Author with id: 1 Update Attempted
+2020-11-16 17:18:42.6406 WARN Author update failed due to bad data given
+2020-11-16 17:19:34.6393 INFO Author with id: 3 Update Attempted
+2020-11-16 17:19:34.6919 INFO Author with id: 3 successfully updated
+2020-11-16 17:19:40.0592 INFO Attempted Get All Authors
+2020-11-16 17:19:40.0882 INFO Successfully got all Authors
+2020-11-16 17:20:47.7538 INFO Author Submission Attempted
+2020-11-16 17:20:47.9095 INFO Author Created Successfully
+2020-11-16 17:20:49.9508 INFO Attempted Get All Authors
+2020-11-16 17:20:49.9692 INFO Successfully got all Authors
+2020-11-16 17:21:03.6611 INFO Author with id: 1 Delete Attempted
+2020-11-16 17:21:03.8302 WARN Author with id: 1 was not found
+2020-11-16 17:21:10.5132 INFO Author with id: 2 Delete Attempted
+2020-11-16 17:21:10.5759 INFO Author with id: 2 successfully deleted
+2020-11-16 17:21:14.2860 INFO Attempted Get All Authors
+2020-11-16 17:21:14.3461 INFO Successfully got all Authors
+2020-11-16 17:21:19.0752 INFO Author with id: 4 Delete Attempted
+2020-11-16 17:21:19.0986 INFO Author with id: 4 successfully deleted
+2020-11-16 17:21:21.4311 INFO Attempted Get All Authors
+2020-11-16 17:21:21.4523 INFO Successfully got all Authors
+2020-11-16 17:21:29.0836 INFO Author with id: 3 Delete Attempted
+2020-11-16 17:21:29.1089 INFO Author with id: 3 successfully deleted
+2020-11-16 17:21:34.1983 INFO Attempted Get All Authors
+2020-11-16 17:21:34.1983 INFO Successfully got all Authors
+2020-11-16 17:33:33.6631 INFO Attempted Get All Authors
+2020-11-16 17:33:35.5920 INFO Successfully got all Authors
+2020-11-16 17:34:08.7021 INFO Author Submission Attempted
+2020-11-16 17:34:09.2145 INFO Author Created Successfully
+2020-11-16 17:34:20.5964 INFO Author Submission Attempted
+2020-11-16 17:34:20.6466 INFO Author Created Successfully
+2020-11-16 17:34:24.9514 INFO Attempted Get All Authors
+2020-11-16 17:34:25.0030 INFO Successfully got all Authors
+2020-11-16 17:34:58.9308 INFO Author with id: 5 Update Attempted
+2020-11-16 17:34:59.1319 INFO Author with id: 5 successfully updated
+2020-11-16 17:35:03.4634 INFO Attempted Get All Authors
+2020-11-16 17:35:03.4844 INFO Successfully got all Authors
+2020-11-16 17:35:12.7640 INFO Author with id: 5 Update Attempted
+2020-11-16 17:35:12.8160 INFO Author with id: 5 successfully updated
+2020-11-16 17:35:48.4710 INFO Author with id: 6 Update Attempted
+2020-11-16 17:35:48.5185 INFO Author with id: 6 successfully updated
+2020-11-16 17:35:49.9421 INFO Attempted Get All Authors
+2020-11-16 17:35:49.9569 INFO Successfully got all Authors
+2020-11-16 17:35:57.6876 INFO Author with id: 3 Delete Attempted
+2020-11-16 17:35:57.7007 WARN Author with id: 3 was not found
+2020-11-16 17:36:02.8608 INFO Author with id: 2 Delete Attempted
+2020-11-16 17:36:02.8819 WARN Author with id: 2 was not found
+2020-11-16 17:36:05.4818 INFO Author with id: 5 Delete Attempted
+2020-11-16 17:36:05.6899 INFO Author with id: 5 successfully deleted
+2020-11-16 17:36:08.5846 INFO Attempted Get All Authors
+2020-11-16 17:36:08.5846 INFO Successfully got all Authors
