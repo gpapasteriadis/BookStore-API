@@ -276,3 +276,19 @@ Error Number:547,State:0,Class:16
 2020-11-17 13:00:11.5038 INFO Books - GetBooks: Succesfull
 2020-11-17 13:00:36.6329 INFO Authors - GetAuthors: Attempted Call
 2020-11-17 13:00:36.6962 INFO Authors - GetAuthors: Successfull
+2020-11-17 17:31:21.3215 INFO Users - Login: Login Attempt from user customer2
+2020-11-17 17:31:21.6632 INFO Users - Login: customer2 Successfully Authenticated
+2020-11-17 17:31:25.5894 INFO Users - Login: Login Attempt from user ddd
+2020-11-17 17:31:25.6121 INFO Users - Login: ddd Not Authenticated
+2020-11-17 17:31:32.3396 INFO Users - Login: Login Attempt from user admin
+2020-11-17 17:31:32.3983 INFO Users - Login: admin Successfully Authenticated
+2020-11-17 17:31:37.4244 INFO Users - Login: Login Attempt from user Admin
+2020-11-17 17:31:37.5173 INFO Users - Login: Admin Successfully Authenticated
+2020-11-17 17:33:37.8068 INFO Users - Login: Login Attempt from user Admddsin
+2020-11-17 17:33:37.9523 INFO Users - Login: Admddsin Not Authenticated
+2020-11-17 17:33:52.0380 INFO Users - Login: Login Attempt from user Admin
+2020-11-17 17:33:52.2968 INFO Users - Login: Admin Successfully Authenticated
+2020-11-17 17:33:59.6349 INFO Users - Login: Login Attempt from user customer1
+2020-11-17 17:33:59.6763 INFO Users - Login: customer1 Successfully Authenticated
+2020-11-17 23:47:14.2591 INFO Users - Login: Login Attempt from user admin
+2020-11-17 23:47:14.6594 INFO Users - Login: admin Successfully Authenticated
