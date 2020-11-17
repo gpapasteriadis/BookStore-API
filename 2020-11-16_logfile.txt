@@ -134,3 +134,9 @@ System.Object -> BookStore_API.Data.Author -
 2020-11-16 17:36:05.6899 INFO Author with id: 5 successfully deleted
 2020-11-16 17:36:08.5846 INFO Attempted Get All Authors
 2020-11-16 17:36:08.5846 INFO Successfully got all Authors
+2020-11-16 22:29:59.8378 INFO Books - GetBooks: Attempted Call
+2020-11-16 22:30:01.8778 INFO Books - GetBooks: Succesfull
+2020-11-16 23:06:23.0222 INFO Books - GetBooks: Attempted Call
+2020-11-16 23:06:24.7806 INFO Books - GetBooks: Succesfull
+2020-11-16 23:06:29.6935 INFO Books - GetBook: Attempted Call for id: 1
+2020-11-16 23:06:29.9660 WARN Books - GetBook: Failed to retrieve record with id: 1
