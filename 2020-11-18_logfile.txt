@@ -1,0 +1,44 @@
+2020-11-18 09:36:52.1805 INFO Authors - GetAuthors: Attempted Call
+2020-11-18 09:36:52.3926 INFO Authors - GetAuthors: Successfull
+2020-11-18 09:37:11.5794 INFO Authors - GetAuthor: Attempted Call for id: 9
+2020-11-18 09:37:11.7486 INFO Authors - GetAuthor: Succesfull got record with id: 9
+2020-11-18 09:38:38.5450 INFO Users - Login: Login Attempt from user customer1
+2020-11-18 09:38:38.9556 INFO Users - Login: customer1 Successfully Authenticated
+2020-11-18 09:40:29.2006 INFO Users - Login: Login Attempt from user admin
+2020-11-18 09:40:29.2696 INFO Users - Login: admin Successfully Authenticated
+2020-11-18 09:41:01.9425 INFO Authors - Create: Create Attempted
+2020-11-18 09:41:02.2479 INFO Authors - Create: Creation was successful
+2020-11-18 09:43:10.1332 INFO Users - Login: Login Attempt from user customer
+2020-11-18 09:43:10.1503 INFO Users - Login: customer Not Authenticated
+2020-11-18 09:43:19.5112 INFO Users - Login: Login Attempt from user customer1
+2020-11-18 09:43:19.6594 INFO Users - Login: customer1 Successfully Authenticated
+2020-11-18 09:44:21.6903 INFO Users - Login: Login Attempt from user admin
+2020-11-18 09:44:21.8350 INFO Users - Login: admin Successfully Authenticated
+2020-11-18 09:44:41.9121 INFO Authors - Create: Create Attempted
+2020-11-18 09:44:41.9288 INFO Authors - Create: Creation was successful
+2020-11-18 09:44:46.3037 INFO Authors - GetAuthors: Attempted Call
+2020-11-18 09:44:46.3282 INFO Authors - GetAuthors: Successfull
+2020-11-18 09:52:01.4469 INFO Authors - Create: Create Attempted
+2020-11-18 09:52:01.8336 INFO Authors - Create: Creation was successful
+2020-11-18 09:52:18.8360 INFO Authors - UpdateAuthor: Update Attempted on record with id: 11
+2020-11-18 09:52:18.9506 INFO Authors - UpdateAuthor: record with id: 11 successfully updated
+2020-11-18 09:52:27.5759 INFO Authors - GetAuthors: Attempted Call
+2020-11-18 09:52:27.6741 INFO Authors - GetAuthors: Successfull
+2020-11-18 09:52:37.6261 INFO Users - Login: Login Attempt from user customer1
+2020-11-18 09:52:37.8849 INFO Users - Login: customer1 Successfully Authenticated
+2020-11-18 09:52:59.5717 INFO Authors - UpdateAuthor: Update Attempted on record with id: 11
+2020-11-18 09:52:59.6071 INFO Authors - UpdateAuthor: record with id: 11 successfully updated
+2020-11-18 09:53:02.6533 INFO Authors - GetAuthors: Attempted Call
+2020-11-18 09:53:02.7167 INFO Authors - GetAuthors: Successfull
+2020-11-18 09:54:30.2463 INFO Authors - GetAuthors: Attempted Call
+2020-11-18 09:54:30.2648 INFO Authors - GetAuthors: Successfull
+2020-11-18 09:55:06.3731 INFO Users - Login: Login Attempt from user admin
+2020-11-18 09:55:06.4766 INFO Users - Login: admin Successfully Authenticated
+2020-11-18 10:10:57.1720 INFO Users - Login: Login Attempt from user admin
+2020-11-18 10:10:57.5759 INFO Users - Login: admin Successfully Authenticated
+2020-11-18 10:11:39.7098 INFO Users - Login: Login Attempt from user customer1
+2020-11-18 10:11:39.7879 INFO Users - Login: customer1 Successfully Authenticated
+2020-11-18 10:11:50.8977 INFO Authors - Delete: Delete Attempted on record with id: 10
+2020-11-18 10:11:51.1844 INFO Authors - Delete: Record with id: 10 successfully deleted
+2020-11-18 10:11:57.9694 INFO Authors - GetAuthors: Attempted Call
+2020-11-18 10:11:58.0718 INFO Authors - GetAuthors: Successfull
