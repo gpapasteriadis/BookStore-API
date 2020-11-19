@@ -1,0 +1,49 @@
+2020-11-19 12:05:33.5415 INFO Users - Login: Login Attempt from user giorgospapasteriadis@gmail.com
+2020-11-19 12:05:33.8711 INFO Users - Login: giorgospapasteriadis@gmail.com Successfully Authenticated
+2020-11-19 12:08:18.3474 INFO Users - Login: Login Attempt from user georgepapasteriadis@windowslive.com
+2020-11-19 12:08:18.4011 INFO Users - Login: georgepapasteriadis@windowslive.com Successfully Authenticated
+2020-11-19 12:12:03.7421 INFO Users - Login: Login Attempt from user georgepapasteriadis@windowslive.com
+2020-11-19 12:12:04.0161 INFO Users - Login: georgepapasteriadis@windowslive.com Successfully Authenticated
+2020-11-19 12:12:41.3316 INFO Users - Login: Login Attempt from user giorgospapasteriadis@gmail.com
+2020-11-19 12:12:41.3831 INFO Users - Login: giorgospapasteriadis@gmail.com Successfully Authenticated
+2020-11-19 12:14:14.1664 INFO Users - Login: Login Attempt from user admin@bookstore.com
+2020-11-19 12:14:14.1832 INFO Users - Login: admin@bookstore.com Not Authenticated
+2020-11-19 12:14:40.4280 INFO Users - Login: Login Attempt from user user1@example.com
+2020-11-19 12:14:40.4722 INFO Users - Login: user1@example.com Not Authenticated
+2020-11-19 12:14:45.9975 INFO Users - Login: Login Attempt from user user1@example.com
+2020-11-19 12:14:46.0289 INFO Users - Login: user1@example.com Not Authenticated
+2020-11-19 12:14:48.1694 INFO Users - Login: Login Attempt from user user1@example.com
+2020-11-19 12:14:48.1910 INFO Users - Login: user1@example.com Not Authenticated
+2020-11-19 12:14:49.4578 INFO Users - Login: Login Attempt from user user1@example.com
+2020-11-19 12:14:49.5027 INFO Users - Login: user1@example.com Not Authenticated
+2020-11-19 12:14:49.6401 INFO Users - Login: Login Attempt from user user1@example.com
+2020-11-19 12:14:49.6621 INFO Users - Login: user1@example.com Not Authenticated
+2020-11-19 12:15:27.1852 INFO Users - Login: Login Attempt from user customer1@gmail.com
+2020-11-19 12:15:27.2076 INFO Users - Login: customer1@gmail.com Not Authenticated
+2020-11-19 12:23:20.7618 INFO Users - Login: Login Attempt from user geo@gmail.com
+2020-11-19 12:23:20.8858 INFO Users - Login: geo@gmail.com Not Authenticated
+2020-11-19 12:23:41.1165 INFO Users - Register: Registration Attempt for geo@gmail.com
+2020-11-19 12:23:41.4435 INFO Users - Register: Registration Succeded for geo@gmail.com
+2020-11-19 12:24:15.4150 INFO Users - Login: Login Attempt from user geo@gmail.com
+2020-11-19 12:24:15.6317 INFO Users - Login: geo@gmail.com Successfully Authenticated
+2020-11-19 12:31:28.0722 INFO Users - Login: Login Attempt from user admin@bookstore.com
+2020-11-19 12:31:28.1821 INFO Users - Login: admin@bookstore.com Not Authenticated
+2020-11-19 12:33:16.4656 INFO Users - Login: Login Attempt from user user1@example.com
+2020-11-19 12:33:16.5374 INFO Users - Login: user1@example.com Not Authenticated
+2020-11-19 12:33:21.0287 INFO Users - Login: Login Attempt from user user@example.com
+2020-11-19 12:33:21.2238 INFO Users - Login: user@example.com Successfully Authenticated
+2020-11-19 12:36:25.0846 INFO Users - Login: Login Attempt from user admin1@bookstore.com
+2020-11-19 12:36:25.3997 INFO Users - Login: admin1@bookstore.com Successfully Authenticated
+2020-11-19 12:37:17.5549 INFO Users - Login: Login Attempt from user customer1@gmail.com
+2020-11-19 12:37:17.6592 INFO Users - Login: customer1@gmail.com Not Authenticated
+2020-11-19 12:37:57.1317 INFO Users - Login: Login Attempt from user customer2@gmail.com
+2020-11-19 12:37:57.2274 INFO Users - Login: customer2@gmail.com Not Authenticated
+2020-11-19 12:38:56.1936 INFO Users - Login: Login Attempt from user customer3@gmail.com
+2020-11-19 12:38:56.4554 INFO Users - Login: customer3@gmail.com Successfully Authenticated
+2020-11-19 12:40:58.6017 INFO Users - Login: Login Attempt from user georgepapasteriadis@windowslive.com
+2020-11-19 12:40:58.7379 WARN Users - Login: georgepapasteriadis@windowslive.com Not Authenticated
+2020-11-19 13:01:06.0997 INFO Users - Login: Login Attempt from user admin@bookstore.com
+2020-11-19 13:01:06.2030 WARN Users - Login: admin@bookstore.com Not Authenticated
+2020-11-19 13:02:29.7991 INFO Users - Login: Login Attempt from user admin@bookstore.com
+2020-11-19 13:02:30.0361 INFO Users - Login: admin@bookstore.com Successfully Authenticated
+2020-11-19 13:02:30.0399 INFO Users - Login: admin@bookstore.com Generating Token
