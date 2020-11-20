@@ -47,3 +47,381 @@
 2020-11-19 13:02:29.7991 INFO Users - Login: Login Attempt from user admin@bookstore.com
 2020-11-19 13:02:30.0361 INFO Users - Login: admin@bookstore.com Successfully Authenticated
 2020-11-19 13:02:30.0399 INFO Users - Login: admin@bookstore.com Generating Token
+2020-11-19 15:49:51.5249 INFO Users - Login: Login Attempt from user customer3@gmail.com
+2020-11-19 15:49:51.8248 INFO Users - Login: customer3@gmail.com Successfully Authenticated
+2020-11-19 15:49:51.8248 INFO Users - Login: customer3@gmail.com Generating Token
+2020-11-19 16:02:31.9461 INFO Users - Login: Login Attempt from user customer3@gmail.com
+2020-11-19 16:02:32.2587 INFO Users - Login: customer3@gmail.com Successfully Authenticated
+2020-11-19 16:02:32.2587 INFO Users - Login: customer3@gmail.com Generating Token
+2020-11-19 16:02:35.7626 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 16:02:35.8634 INFO Authors - GetAuthors: Successfull
+2020-11-19 16:03:10.0053 INFO Users - Login: Login Attempt from user georgepapasteriadis@windowslive.com
+2020-11-19 16:03:10.0552 INFO Users - Login: georgepapasteriadis@windowslive.com Successfully Authenticated
+2020-11-19 16:03:10.0552 INFO Users - Login: georgepapasteriadis@windowslive.com Generating Token
+2020-11-19 16:03:11.2482 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 16:03:11.2906 INFO Authors - GetAuthors: Successfull
+2020-11-19 16:20:13.3177 INFO Users - Login: Login Attempt from user customer3@gmail.com
+2020-11-19 16:20:13.5832 INFO Users - Login: customer3@gmail.com Successfully Authenticated
+2020-11-19 16:20:13.5840 INFO Users - Login: customer3@gmail.com Generating Token
+2020-11-19 16:20:15.6703 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 16:20:15.7432 INFO Authors - GetAuthors: Successfull
+2020-11-19 16:20:21.6029 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 16:20:21.6213 INFO Authors - GetAuthors: Successfull
+2020-11-19 16:20:23.5633 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 16:20:23.5772 INFO Authors - GetAuthors: Successfull
+2020-11-19 16:20:25.8771 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 16:20:25.8881 INFO Authors - GetAuthors: Successfull
+2020-11-19 16:20:29.3892 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 16:20:29.3999 INFO Authors - GetAuthors: Successfull
+2020-11-19 16:22:18.6010 INFO Users - Login: Login Attempt from user customer3@gmail.com
+2020-11-19 16:22:18.6010 INFO Users - Login: Login Attempt from user customer3@gmail.com
+2020-11-19 16:22:18.9176 INFO Users - Login: Login Attempt from user customer3@gmail.com
+2020-11-19 16:22:19.0024 INFO Users - Login: customer3@gmail.com Successfully Authenticated
+2020-11-19 16:22:19.0024 INFO Users - Login: customer3@gmail.com Successfully Authenticated
+2020-11-19 16:22:19.0024 INFO Users - Login: customer3@gmail.com Successfully Authenticated
+2020-11-19 16:22:19.0066 INFO Users - Login: customer3@gmail.com Generating Token
+2020-11-19 16:22:19.0066 INFO Users - Login: customer3@gmail.com Generating Token
+2020-11-19 16:22:19.0066 INFO Users - Login: customer3@gmail.com Generating Token
+2020-11-19 16:22:21.1566 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 16:22:21.2489 INFO Authors - GetAuthors: Successfull
+2020-11-19 16:49:35.1936 INFO Users - Login: Login Attempt from user customer3@gmail.com
+2020-11-19 16:49:35.1936 INFO Users - Login: Login Attempt from user customer3@gmail.com
+2020-11-19 16:49:35.6130 INFO Users - Login: customer3@gmail.com Successfully Authenticated
+2020-11-19 16:49:35.6130 INFO Users - Login: customer3@gmail.com Successfully Authenticated
+2020-11-19 16:49:35.6362 INFO Users - Login: customer3@gmail.com Generating Token
+2020-11-19 16:49:35.6362 INFO Users - Login: customer3@gmail.com Generating Token
+2020-11-19 16:49:40.1679 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 16:49:40.3437 INFO Authors - GetAuthors: Successfull
+2020-11-19 16:52:37.2556 INFO Users - Login: Login Attempt from user customer3@gmail.com
+2020-11-19 16:52:37.5143 INFO Users - Login: customer3@gmail.com Successfully Authenticated
+2020-11-19 16:52:37.5143 INFO Users - Login: customer3@gmail.com Generating Token
+2020-11-19 16:52:39.5965 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 16:52:39.7296 INFO Authors - GetAuthors: Successfull
+2020-11-19 16:54:42.5228 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 16:54:42.5420 INFO Authors - GetAuthors: Successfull
+2020-11-19 16:54:45.0788 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 16:54:45.0868 INFO Authors - GetAuthors: Successfull
+2020-11-19 16:54:50.2517 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 16:54:50.2603 INFO Authors - GetAuthors: Successfull
+2020-11-19 16:54:51.8666 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 16:54:51.8817 INFO Authors - GetAuthors: Successfull
+2020-11-19 16:54:54.7410 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 16:55:01.8425 INFO Authors - GetAuthors: Successfull
+2020-11-19 16:55:04.3846 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 16:55:04.4000 INFO Authors - GetAuthors: Successfull
+2020-11-19 16:55:05.9226 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 16:55:05.9435 INFO Authors - GetAuthors: Successfull
+2020-11-19 16:55:07.5283 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 16:55:07.5380 INFO Authors - GetAuthors: Successfull
+2020-11-19 16:55:09.2759 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 16:55:09.2759 INFO Authors - GetAuthors: Successfull
+2020-11-19 16:55:10.8035 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 16:55:10.8269 INFO Authors - GetAuthors: Successfull
+2020-11-19 16:55:12.2252 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 16:55:12.2252 INFO Authors - GetAuthors: Successfull
+2020-11-19 16:55:13.5095 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 16:55:13.5095 INFO Authors - GetAuthors: Successfull
+2020-11-19 16:55:17.6073 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 16:55:17.6073 INFO Authors - GetAuthors: Successfull
+2020-11-19 16:58:18.2608 INFO Users - Login: Login Attempt from user customer3@gmail.com
+2020-11-19 16:58:18.6217 INFO Users - Login: customer3@gmail.com Successfully Authenticated
+2020-11-19 16:58:18.6314 INFO Users - Login: customer3@gmail.com Generating Token
+2020-11-19 16:59:15.5700 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 16:59:15.7324 INFO Authors - GetAuthors: Successfull
+2020-11-19 17:00:06.8761 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 17:00:06.8879 INFO Authors - GetAuthors: Successfull
+2020-11-19 17:00:37.3504 INFO Users - Login: Login Attempt from user customer3@gmail.com
+2020-11-19 17:00:37.3929 INFO Users - Login: customer3@gmail.com Successfully Authenticated
+2020-11-19 17:00:37.3971 INFO Users - Login: customer3@gmail.com Generating Token
+2020-11-19 17:00:38.4031 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 17:00:38.4177 INFO Authors - GetAuthors: Successfull
+2020-11-19 17:02:47.2553 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 17:02:47.2556 INFO Authors - GetAuthors: Successfull
+2020-11-19 17:04:23.2095 INFO Users - Login: Login Attempt from user customer3@gmail.com
+2020-11-19 17:04:23.3541 WARN Users - Login: customer3@gmail.com Not Authenticated
+2020-11-19 17:04:34.2200 INFO Users - Login: Login Attempt from user customer3@gmail.com
+2020-11-19 17:04:34.4268 INFO Users - Login: customer3@gmail.com Successfully Authenticated
+2020-11-19 17:04:34.4306 INFO Users - Login: customer3@gmail.com Generating Token
+2020-11-19 17:04:36.2637 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 17:04:36.3387 INFO Authors - GetAuthors: Successfull
+2020-11-19 17:05:12.1239 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 17:05:12.1383 INFO Authors - GetAuthors: Successfull
+2020-11-19 17:05:55.8807 INFO Users - Login: Login Attempt from user customer3@gmail.com
+2020-11-19 17:05:56.1972 INFO Users - Login: customer3@gmail.com Successfully Authenticated
+2020-11-19 17:05:56.1972 INFO Users - Login: customer3@gmail.com Generating Token
+2020-11-19 17:05:58.0627 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 17:05:58.1532 INFO Authors - GetAuthors: Successfull
+2020-11-19 17:07:28.2386 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 17:07:28.2649 INFO Authors - GetAuthors: Successfull
+2020-11-19 17:09:04.4504 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 17:09:04.4688 INFO Authors - GetAuthors: Successfull
+2020-11-19 17:10:08.4327 INFO Users - Login: Login Attempt from user customer3@gmail.com
+2020-11-19 17:10:08.5370 INFO Users - Login: customer3@gmail.com Successfully Authenticated
+2020-11-19 17:10:08.5457 INFO Users - Login: customer3@gmail.com Generating Token
+2020-11-19 17:10:24.8162 INFO Authors - GetAuthor: Attempted Call for id: 9
+2020-11-19 17:10:24.9020 INFO Authors - GetAuthor: Succesfull got record with id: 9
+2020-11-19 17:12:23.3529 INFO Users - Login: Login Attempt from user customer3@gmail.com
+2020-11-19 17:12:23.6324 INFO Users - Login: customer3@gmail.com Successfully Authenticated
+2020-11-19 17:12:23.6324 INFO Users - Login: customer3@gmail.com Generating Token
+2020-11-19 17:12:33.7412 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 17:12:33.8610 INFO Authors - GetAuthors: Successfull
+2020-11-19 17:13:07.0796 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 17:13:07.0898 INFO Authors - GetAuthors: Successfull
+2020-11-19 17:13:16.7192 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 17:13:16.7286 INFO Authors - GetAuthors: Successfull
+2020-11-19 17:13:23.0856 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 17:13:23.0856 INFO Authors - GetAuthors: Successfull
+2020-11-19 17:14:58.6880 INFO Users - Login: Login Attempt from user customer3@gmail.com
+2020-11-19 17:14:58.7538 INFO Users - Login: customer3@gmail.com Successfully Authenticated
+2020-11-19 17:14:58.7637 INFO Users - Login: customer3@gmail.com Generating Token
+2020-11-19 17:15:12.6390 INFO Authors - GetAuthor: Attempted Call for id: 9
+2020-11-19 17:15:12.7048 INFO Authors - GetAuthor: Succesfull got record with id: 9
+2020-11-19 17:15:15.8136 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 17:15:15.8356 INFO Authors - GetAuthors: Successfull
+2020-11-19 17:17:35.6783 INFO Users - Login: Login Attempt from user customer3@gmail.com
+2020-11-19 17:17:35.9934 INFO Users - Login: customer3@gmail.com Successfully Authenticated
+2020-11-19 17:17:35.9934 INFO Users - Login: customer3@gmail.com Generating Token
+2020-11-19 17:18:01.4109 INFO Authors - GetAuthor: Attempted Call for id: 9
+2020-11-19 17:18:01.5306 INFO Authors - GetAuthor: Succesfull got record with id: 9
+2020-11-19 17:23:52.0566 INFO Users - Login: Login Attempt from user customer3@gmail.com
+2020-11-19 17:23:52.0566 INFO Users - Login: Login Attempt from user customer3@gmail.com
+2020-11-19 17:23:52.3475 INFO Users - Login: customer3@gmail.com Successfully Authenticated
+2020-11-19 17:23:52.3475 INFO Users - Login: customer3@gmail.com Successfully Authenticated
+2020-11-19 17:23:52.3514 INFO Users - Login: customer3@gmail.com Generating Token
+2020-11-19 17:23:52.3514 INFO Users - Login: customer3@gmail.com Generating Token
+2020-11-19 17:23:54.3295 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 17:23:54.4664 INFO Authors - GetAuthors: Successfull
+2020-11-19 17:23:56.0183 INFO Authors - GetAuthor: Attempted Call for id: 9
+2020-11-19 17:23:56.0572 INFO Authors - GetAuthor: Succesfull got record with id: 9
+2020-11-19 17:24:12.0447 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 17:24:12.0537 INFO Authors - GetAuthors: Successfull
+2020-11-19 17:24:13.8256 INFO Authors - GetAuthor: Attempted Call for id: 11
+2020-11-19 17:24:13.8414 INFO Authors - GetAuthor: Succesfull got record with id: 11
+2020-11-19 17:24:17.5666 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 17:24:17.5754 INFO Authors - GetAuthors: Successfull
+2020-11-19 17:24:18.5581 INFO Authors - GetAuthor: Attempted Call for id: 12
+2020-11-19 17:24:18.5810 INFO Authors - GetAuthor: Succesfull got record with id: 12
+2020-11-19 17:24:26.6402 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 17:24:26.6488 INFO Authors - GetAuthors: Successfull
+2020-11-19 17:29:20.5370 INFO Users - Login: Login Attempt from user customer3@gmail.com
+2020-11-19 17:29:20.7442 WARN Users - Login: customer3@gmail.com Not Authenticated
+2020-11-19 17:29:29.0951 INFO Users - Login: Login Attempt from user customer3@gmail.com
+2020-11-19 17:29:29.3116 INFO Users - Login: customer3@gmail.com Successfully Authenticated
+2020-11-19 17:29:29.3116 INFO Users - Login: customer3@gmail.com Generating Token
+2020-11-19 17:29:31.3913 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 17:29:31.4983 INFO Authors - GetAuthors: Successfull
+2020-11-19 17:29:32.7827 INFO Authors - GetAuthor: Attempted Call for id: 9
+2020-11-19 17:29:32.8224 INFO Authors - GetAuthor: Succesfull got record with id: 9
+2020-11-19 17:30:43.3202 INFO Users - Login: Login Attempt from user customer3@gmail.com
+2020-11-19 17:30:43.6294 INFO Users - Login: customer3@gmail.com Successfully Authenticated
+2020-11-19 17:30:43.6301 INFO Users - Login: customer3@gmail.com Generating Token
+2020-11-19 17:30:45.7688 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 17:30:45.8719 INFO Authors - GetAuthors: Successfull
+2020-11-19 17:30:48.3646 INFO Authors - GetAuthor: Attempted Call for id: 11
+2020-11-19 17:30:48.4200 INFO Authors - GetAuthor: Succesfull got record with id: 11
+2020-11-19 17:30:51.2650 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 17:30:51.2758 INFO Authors - GetAuthors: Successfull
+2020-11-19 17:30:52.2143 INFO Authors - GetAuthor: Attempted Call for id: 9
+2020-11-19 17:30:52.2260 INFO Authors - GetAuthor: Succesfull got record with id: 9
+2020-11-19 17:30:52.9919 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 17:30:52.9919 INFO Authors - GetAuthors: Successfull
+2020-11-19 17:30:53.9530 INFO Authors - GetAuthor: Attempted Call for id: 12
+2020-11-19 17:30:53.9668 INFO Authors - GetAuthor: Succesfull got record with id: 12
+2020-11-19 17:30:54.5964 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 17:30:54.6028 INFO Authors - GetAuthors: Successfull
+2020-11-19 17:30:55.4475 INFO Authors - GetAuthor: Attempted Call for id: 9
+2020-11-19 17:30:55.4681 INFO Authors - GetAuthor: Succesfull got record with id: 9
+2020-11-19 17:30:56.0639 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 17:30:56.0729 INFO Authors - GetAuthors: Successfull
+2020-11-19 17:30:56.7577 INFO Authors - GetAuthor: Attempted Call for id: 11
+2020-11-19 17:30:56.7577 INFO Authors - GetAuthor: Succesfull got record with id: 11
+2020-11-19 17:34:31.1952 INFO Users - Login: Login Attempt from user customer3@gmail.com
+2020-11-19 17:34:31.4973 INFO Users - Login: customer3@gmail.com Successfully Authenticated
+2020-11-19 17:34:31.4973 INFO Users - Login: customer3@gmail.com Generating Token
+2020-11-19 17:34:34.2988 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 17:34:34.4603 INFO Authors - GetAuthors: Successfull
+2020-11-19 17:34:35.7060 INFO Authors - GetAuthor: Attempted Call for id: 9
+2020-11-19 17:34:35.7794 INFO Authors - GetAuthor: Succesfull got record with id: 9
+2020-11-19 17:34:49.4265 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 17:34:49.4436 INFO Authors - GetAuthors: Successfull
+2020-11-19 17:34:50.8809 INFO Authors - GetAuthor: Attempted Call for id: 11
+2020-11-19 17:34:50.8809 INFO Authors - GetAuthor: Succesfull got record with id: 11
+2020-11-19 17:34:52.1234 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 17:34:52.1319 INFO Authors - GetAuthors: Successfull
+2020-11-19 17:34:52.7581 INFO Authors - GetAuthor: Attempted Call for id: 12
+2020-11-19 17:34:52.7734 INFO Authors - GetAuthor: Succesfull got record with id: 12
+2020-11-19 18:21:57.4623 INFO Users - Login: Login Attempt from user customer3@gmail.com
+2020-11-19 18:21:57.7263 INFO Users - Login: customer3@gmail.com Successfully Authenticated
+2020-11-19 18:21:57.7263 INFO Users - Login: customer3@gmail.com Generating Token
+2020-11-19 18:22:02.8749 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 18:22:02.9783 INFO Authors - GetAuthors: Successfull
+2020-11-19 18:22:05.4442 INFO Authors - GetAuthor: Attempted Call for id: 9
+2020-11-19 18:22:05.5134 INFO Authors - GetAuthor: Succesfull got record with id: 9
+2020-11-19 18:22:55.2134 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 18:22:55.2392 INFO Authors - GetAuthors: Successfull
+2020-11-19 18:23:07.0124 INFO Authors - GetAuthor: Attempted Call for id: 9
+2020-11-19 18:23:07.0358 INFO Authors - GetAuthor: Succesfull got record with id: 9
+2020-11-19 18:23:34.9236 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 18:23:34.9377 INFO Authors - GetAuthors: Successfull
+2020-11-19 18:23:41.2931 INFO Authors - GetAuthor: Attempted Call for id: 11
+2020-11-19 18:23:41.3108 INFO Authors - GetAuthor: Succesfull got record with id: 11
+2020-11-19 18:23:46.4575 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 18:23:46.4683 INFO Authors - GetAuthors: Successfull
+2020-11-19 18:26:04.2258 INFO Users - Login: Login Attempt from user customer3@gmail.com
+2020-11-19 18:26:04.5092 INFO Users - Login: customer3@gmail.com Successfully Authenticated
+2020-11-19 18:26:04.5092 INFO Users - Login: customer3@gmail.com Generating Token
+2020-11-19 18:26:07.5757 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 18:26:07.6951 INFO Authors - GetAuthors: Successfull
+2020-11-19 18:26:09.2430 INFO Authors - GetAuthor: Attempted Call for id: 9
+2020-11-19 18:26:09.2927 INFO Authors - GetAuthor: Succesfull got record with id: 9
+2020-11-19 18:26:15.3966 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 18:26:15.3966 INFO Authors - GetAuthors: Successfull
+2020-11-19 18:26:17.1012 INFO Authors - GetAuthor: Attempted Call for id: 9
+2020-11-19 18:26:17.1176 INFO Authors - GetAuthor: Succesfull got record with id: 9
+2020-11-19 18:26:23.1432 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 18:26:23.1512 INFO Authors - GetAuthors: Successfull
+2020-11-19 18:26:24.4881 INFO Authors - GetAuthor: Attempted Call for id: 9
+2020-11-19 18:26:24.5032 INFO Authors - GetAuthor: Succesfull got record with id: 9
+2020-11-19 18:26:26.4881 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 18:26:26.4963 INFO Authors - GetAuthors: Successfull
+2020-11-19 18:26:28.7715 INFO Authors - GetAuthor: Attempted Call for id: 9
+2020-11-19 18:26:28.7715 INFO Authors - GetAuthor: Succesfull got record with id: 9
+2020-11-19 18:27:18.8327 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 18:27:18.8515 INFO Authors - GetAuthors: Successfull
+2020-11-19 18:27:20.0203 INFO Authors - GetAuthor: Attempted Call for id: 9
+2020-11-19 18:27:20.0406 INFO Authors - GetAuthor: Succesfull got record with id: 9
+2020-11-19 18:27:21.6524 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 18:27:21.6617 INFO Authors - GetAuthors: Successfull
+2020-11-19 18:31:09.2262 INFO Users - Login: Login Attempt from user customer3@gmail.com
+2020-11-19 18:31:09.5143 INFO Users - Login: customer3@gmail.com Successfully Authenticated
+2020-11-19 18:31:09.5143 INFO Users - Login: customer3@gmail.com Generating Token
+2020-11-19 18:31:12.9538 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 18:31:13.0990 INFO Authors - GetAuthors: Successfull
+2020-11-19 18:31:14.2252 INFO Authors - GetAuthor: Attempted Call for id: 9
+2020-11-19 18:31:14.2830 INFO Authors - GetAuthor: Succesfull got record with id: 9
+2020-11-19 18:31:15.8663 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 18:31:15.8663 INFO Authors - GetAuthors: Successfull
+2020-11-19 18:31:16.8139 INFO Authors - GetAuthor: Attempted Call for id: 9
+2020-11-19 18:31:16.8275 INFO Authors - GetAuthor: Succesfull got record with id: 9
+2020-11-19 18:31:26.3284 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 18:31:26.3374 INFO Authors - GetAuthors: Successfull
+2020-11-19 18:31:27.7062 INFO Authors - GetAuthor: Attempted Call for id: 9
+2020-11-19 18:31:27.7218 INFO Authors - GetAuthor: Succesfull got record with id: 9
+2020-11-19 18:31:30.1203 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 18:31:30.1319 INFO Authors - GetAuthors: Successfull
+2020-11-19 18:31:31.9070 INFO Authors - GetAuthor: Attempted Call for id: 9
+2020-11-19 18:31:31.9202 INFO Authors - GetAuthor: Succesfull got record with id: 9
+2020-11-19 18:31:33.1794 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 18:31:33.1794 INFO Authors - GetAuthors: Successfull
+2020-11-19 18:31:34.2182 INFO Authors - GetAuthor: Attempted Call for id: 9
+2020-11-19 18:31:34.2285 INFO Authors - GetAuthor: Succesfull got record with id: 9
+2020-11-19 18:31:39.2634 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 18:31:39.2732 INFO Authors - GetAuthors: Successfull
+2020-11-19 18:33:28.7091 INFO Users - Login: Login Attempt from user customer3@gmail.com
+2020-11-19 18:33:29.0079 INFO Users - Login: customer3@gmail.com Successfully Authenticated
+2020-11-19 18:33:29.0079 INFO Users - Login: customer3@gmail.com Generating Token
+2020-11-19 18:33:31.3680 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 18:33:31.5229 INFO Authors - GetAuthors: Successfull
+2020-11-19 18:33:40.4989 INFO Authors - GetAuthor: Attempted Call for id: 9
+2020-11-19 18:33:40.5661 INFO Authors - GetAuthor: Succesfull got record with id: 9
+2020-11-19 18:33:58.3403 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 18:33:58.3504 INFO Authors - GetAuthors: Successfull
+2020-11-19 18:34:01.5946 INFO Authors - GetAuthor: Attempted Call for id: 9
+2020-11-19 18:34:01.6098 INFO Authors - GetAuthor: Succesfull got record with id: 9
+2020-11-19 18:34:04.9793 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 18:34:04.9793 INFO Authors - GetAuthors: Successfull
+2020-11-19 18:38:29.9281 INFO Users - Login: Login Attempt from user customer3@gmail.com
+2020-11-19 18:38:30.2360 INFO Users - Login: customer3@gmail.com Successfully Authenticated
+2020-11-19 18:38:30.2360 INFO Users - Login: customer3@gmail.com Generating Token
+2020-11-19 18:38:32.5498 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 18:38:32.6693 INFO Authors - GetAuthors: Successfull
+2020-11-19 18:38:33.7802 INFO Authors - GetAuthor: Attempted Call for id: 9
+2020-11-19 18:38:33.8362 INFO Authors - GetAuthor: Succesfull got record with id: 9
+2020-11-19 18:38:35.1674 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 18:38:35.1674 INFO Authors - GetAuthors: Successfull
+2020-11-19 18:38:36.1038 INFO Authors - GetAuthor: Attempted Call for id: 9
+2020-11-19 18:38:36.1157 INFO Authors - GetAuthor: Succesfull got record with id: 9
+2020-11-19 18:39:03.8098 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 18:39:03.8258 INFO Authors - GetAuthors: Successfull
+2020-11-19 18:39:05.2035 INFO Authors - GetAuthor: Attempted Call for id: 12
+2020-11-19 18:39:05.2221 INFO Authors - GetAuthor: Succesfull got record with id: 12
+2020-11-19 18:39:05.9696 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 18:39:05.9768 INFO Authors - GetAuthors: Successfull
+2020-11-19 18:39:06.7637 INFO Authors - GetAuthor: Attempted Call for id: 12
+2020-11-19 18:39:06.7776 INFO Authors - GetAuthor: Succesfull got record with id: 12
+2020-11-19 18:50:38.3111 INFO Users - Login: Login Attempt from user customer3@gmail.com
+2020-11-19 18:50:38.4887 WARN Users - Login: customer3@gmail.com Not Authenticated
+2020-11-19 18:50:48.2088 INFO Users - Login: Login Attempt from user customer3@gmail.com
+2020-11-19 18:50:48.4125 INFO Users - Login: customer3@gmail.com Successfully Authenticated
+2020-11-19 18:50:48.4125 INFO Users - Login: customer3@gmail.com Generating Token
+2020-11-19 18:50:50.4846 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 18:50:50.5737 INFO Authors - GetAuthors: Successfull
+2020-11-19 18:50:51.8669 INFO Authors - GetAuthor: Attempted Call for id: 9
+2020-11-19 18:50:51.9097 INFO Authors - GetAuthor: Succesfull got record with id: 9
+2020-11-19 18:50:53.5420 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 18:50:53.5538 INFO Authors - GetAuthors: Successfull
+2020-11-19 18:50:54.3001 INFO Authors - GetAuthor: Attempted Call for id: 9
+2020-11-19 18:50:54.3091 INFO Authors - GetAuthor: Succesfull got record with id: 9
+2020-11-19 18:51:28.3348 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 18:51:28.3496 INFO Authors - GetAuthors: Successfull
+2020-11-19 18:55:08.5531 INFO Users - Login: Login Attempt from user customer3@gmail.com
+2020-11-19 18:55:08.8150 INFO Users - Login: customer3@gmail.com Successfully Authenticated
+2020-11-19 18:55:08.8192 INFO Users - Login: customer3@gmail.com Generating Token
+2020-11-19 18:55:11.8719 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 18:55:12.0121 INFO Authors - GetAuthors: Successfull
+2020-11-19 18:55:13.3416 INFO Authors - GetAuthor: Attempted Call for id: 9
+2020-11-19 18:55:13.3778 INFO Authors - GetAuthor: Succesfull got record with id: 9
+2020-11-19 18:55:22.1589 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 18:55:22.1689 INFO Authors - GetAuthors: Successfull
+2020-11-19 19:01:58.3059 INFO Users - Login: Login Attempt from user customer3@gmail.com
+2020-11-19 19:01:58.5866 INFO Users - Login: customer3@gmail.com Successfully Authenticated
+2020-11-19 19:01:58.5866 INFO Users - Login: customer3@gmail.com Generating Token
+2020-11-19 19:02:01.5115 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 19:02:01.6125 INFO Authors - GetAuthors: Successfull
+2020-11-19 19:02:03.1467 INFO Authors - GetAuthor: Attempted Call for id: 9
+2020-11-19 19:02:03.1833 INFO Authors - GetAuthor: Succesfull got record with id: 9
+2020-11-19 19:07:56.3201 INFO Users - Login: Login Attempt from user customer3@gmail.com
+2020-11-19 19:07:56.6055 INFO Users - Login: customer3@gmail.com Successfully Authenticated
+2020-11-19 19:07:56.6055 INFO Users - Login: customer3@gmail.com Generating Token
+2020-11-19 19:07:58.4502 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 19:07:58.5570 INFO Authors - GetAuthors: Successfull
+2020-11-19 19:07:59.8887 INFO Authors - GetAuthor: Attempted Call for id: 9
+2020-11-19 19:07:59.9248 INFO Authors - GetAuthor: Succesfull got record with id: 9
+2020-11-19 19:08:02.6098 INFO Authors - UpdateAuthor: Update Attempted on record with id: 9
+2020-11-19 19:08:02.8414 INFO Authors - UpdateAuthor: record with id: 9 successfully updated
+2020-11-19 19:08:02.8825 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 19:08:02.8825 INFO Authors - GetAuthors: Successfull
+2020-11-19 19:08:06.8749 INFO Authors - GetAuthor: Attempted Call for id: 9
+2020-11-19 19:08:06.8951 INFO Authors - GetAuthor: Succesfull got record with id: 9
+2020-11-19 19:08:08.6947 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 19:08:08.6947 INFO Authors - GetAuthors: Successfull
+2020-11-19 19:08:10.7756 INFO Authors - GetAuthor: Attempted Call for id: 9
+2020-11-19 19:08:10.7869 INFO Authors - GetAuthor: Succesfull got record with id: 9
+2020-11-19 19:08:13.7234 INFO Authors - UpdateAuthor: Update Attempted on record with id: 9
+2020-11-19 19:08:13.7401 INFO Authors - UpdateAuthor: record with id: 9 successfully updated
+2020-11-19 19:08:13.7896 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 19:08:13.7896 INFO Authors - GetAuthors: Successfull
+2020-11-19 19:08:16.7420 INFO Authors - GetAuthor: Attempted Call for id: 9
+2020-11-19 19:08:16.7420 INFO Authors - GetAuthor: Succesfull got record with id: 9
+2020-11-19 19:08:17.8661 INFO Authors - UpdateAuthor: Update Attempted on record with id: 9
+2020-11-19 19:08:17.8999 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 19:08:17.8999 INFO Authors - UpdateAuthor: record with id: 9 successfully updated
+2020-11-19 19:08:17.9268 INFO Authors - GetAuthors: Successfull
+2020-11-19 19:08:19.1863 INFO Authors - GetAuthor: Attempted Call for id: 9
+2020-11-19 19:08:19.1941 INFO Authors - GetAuthor: Succesfull got record with id: 9
+2020-11-19 19:08:20.9007 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 19:08:20.9007 INFO Authors - GetAuthors: Successfull
+2020-11-19 19:08:22.2378 INFO Authors - GetAuthor: Attempted Call for id: 11
+2020-11-19 19:08:22.2479 INFO Authors - GetAuthor: Succesfull got record with id: 11
+2020-11-19 19:08:25.5413 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 19:08:25.5573 INFO Authors - GetAuthors: Successfull
+2020-11-19 19:08:26.2908 INFO Authors - GetAuthor: Attempted Call for id: 11
+2020-11-19 19:08:26.3038 INFO Authors - GetAuthor: Succesfull got record with id: 11
+2020-11-19 19:08:29.0784 INFO Authors - UpdateAuthor: Update Attempted on record with id: 11
+2020-11-19 19:08:29.0950 INFO Authors - UpdateAuthor: record with id: 11 successfully updated
+2020-11-19 19:08:29.1523 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 19:08:29.1523 INFO Authors - GetAuthors: Successfull
+2020-11-19 19:08:30.5753 INFO Authors - GetAuthor: Attempted Call for id: 11
+2020-11-19 19:08:30.6800 INFO Authors - GetAuthor: Succesfull got record with id: 11
+2020-11-19 19:08:32.8023 INFO Authors - GetAuthors: Attempted Call
+2020-11-19 19:08:32.8103 INFO Authors - GetAuthors: Successfull
