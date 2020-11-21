@@ -1,11 +1,11 @@
 ﻿@page "/authors/create"
-@attribute [Authorize(Roles="Administrator")]
+@attribute [Authorize(Roles = "Administrator")]
 
-@inject NavigationManager _navManager
 @inject IAuthorRepository _repo
+@inject NavigationManager _navManager
+@inject IToastService _toastService
 
 <h3 class="card-title">Create A New Author</h3>
-<br />
 <hr />
 <br />
 
@@ -50,6 +50,7 @@
         isSuccess = await _repo.Create(Endpoints.AuthorsEndpoint, Model);
         if (isSuccess)
         {
+            _toastService.ShowSuccess("Author Created Successfully");
             BackToList();
         }
 

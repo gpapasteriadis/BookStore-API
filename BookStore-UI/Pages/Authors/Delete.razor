@@ -1,11 +1,10 @@
 ﻿@page "/authors/delete/{Id}"
-@attribute [Authorize(Roles="Administrator")]
+@attribute [Authorize(Roles = "Administrator")]
 
 @inject NavigationManager _navManager
 @inject IAuthorRepository _repo
 
 <h3 class="card-title">Are You Sure You Want To Delete This Record?</h3>
-<br />
 <hr />
 <br />
 
@@ -52,7 +51,7 @@ else
                 <ul class="list-group list-group-flush">
                     @foreach (var book in Model.Books)
                     {
-                        <li class="list-group-item">@book.Title - @book.Price</li>
+                    <li class="list-group-item">@book.Title - @string.Format("{0:C}", book.Price)</li>
                     }
                 </ul>
             </div>

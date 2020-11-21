@@ -1,10 +1,10 @@
 ﻿@page "/authors/"
+@attribute [Authorize]
 
 @inject NavigationManager _navManager
 @inject IAuthorRepository _repo
 
 <h3 class="card-title">Index</h3>
-<br />
 <hr />
 <br />
 
@@ -19,8 +19,10 @@ else
             <span class="oi oi-plus"></span>
             Create New Author
         </a>
-    </AuthorizeView> 
-        
+    </AuthorizeView>
+    <br />
+    <br />
+
     @if (Model.Count < 1)
     {
         <LoadingMessage Message="There are no authors in the data store.

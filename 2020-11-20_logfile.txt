@@ -469,3 +469,82 @@
 2020-11-20 14:38:31.3202 INFO Authors - GetAuthor: Succesfull got record with id: 11
 2020-11-20 14:38:33.2615 INFO Authors - GetAuthors: Attempted Call
 2020-11-20 14:38:33.2705 INFO Authors - GetAuthors: Successfull
+2020-11-20 17:19:15.2832 INFO Users - Login: Login Attempt from user customer3@gmail.com
+2020-11-20 17:19:15.5516 INFO Users - Login: customer3@gmail.com Successfully Authenticated
+2020-11-20 17:19:15.5516 INFO Users - Login: customer3@gmail.com Generating Token
+2020-11-20 17:19:18.3283 INFO Authors - GetAuthors: Attempted Call
+2020-11-20 17:19:18.5337 INFO Authors - GetAuthors: Successfull
+2020-11-20 17:49:22.5502 INFO Users - Login: Login Attempt from user customer3@gmail.com
+2020-11-20 17:49:22.8355 INFO Users - Login: customer3@gmail.com Successfully Authenticated
+2020-11-20 17:49:22.8355 INFO Users - Login: customer3@gmail.com Generating Token
+2020-11-20 17:49:25.4335 INFO Authors - GetAuthors: Attempted Call
+2020-11-20 17:49:25.6257 INFO Authors - GetAuthors: Successfull
+2020-11-20 17:49:27.7079 INFO Books - GetBooks: Attempted Call
+2020-11-20 17:49:27.7370 INFO Books - GetBooks: Succesfull
+2020-11-20 18:00:07.3622 INFO Users - Login: Login Attempt from user customer3@gmail.com
+2020-11-20 18:00:07.6593 INFO Users - Login: customer3@gmail.com Successfully Authenticated
+2020-11-20 18:00:07.6593 INFO Users - Login: customer3@gmail.com Generating Token
+2020-11-20 18:00:08.7153 INFO Authors - GetAuthors: Attempted Call
+2020-11-20 18:00:08.9185 INFO Authors - GetAuthors: Successfull
+2020-11-20 18:00:09.1354 INFO Books - GetBooks: Attempted Call
+2020-11-20 18:00:09.1732 INFO Books - GetBooks: Succesfull
+2020-11-20 18:00:10.3881 INFO Authors - GetAuthors: Attempted Call
+2020-11-20 18:00:10.3981 INFO Authors - GetAuthors: Successfull
+2020-11-20 18:00:12.1530 INFO Authors - GetAuthor: Attempted Call for id: 11
+2020-11-20 18:00:12.2077 INFO Authors - GetAuthor: Succesfull got record with id: 11
+2020-11-20 18:00:14.5228 INFO Books - GetBooks: Attempted Call
+2020-11-20 18:00:14.5373 INFO Books - GetBooks: Succesfull
+2020-11-20 18:00:18.2018 INFO Authors - GetAuthors: Attempted Call
+2020-11-20 18:00:18.2131 INFO Authors - GetAuthors: Successfull
+2020-11-20 18:00:20.2453 INFO Books - GetBooks: Attempted Call
+2020-11-20 18:00:20.2566 INFO Books - GetBooks: Succesfull
+2020-11-20 18:00:35.1106 INFO Users - Login: Login Attempt from user admin1@bookstore.com
+2020-11-20 18:00:35.1431 INFO Users - Login: admin1@bookstore.com Successfully Authenticated
+2020-11-20 18:00:35.1431 INFO Users - Login: admin1@bookstore.com Generating Token
+2020-11-20 18:00:37.1788 INFO Authors - GetAuthors: Attempted Call
+2020-11-20 18:00:37.1788 INFO Authors - GetAuthors: Successfull
+2020-11-20 18:00:39.8142 INFO Authors - GetAuthor: Attempted Call for id: 11
+2020-11-20 18:00:39.8319 INFO Authors - GetAuthor: Succesfull got record with id: 11
+2020-11-20 18:00:45.4786 INFO Authors - UpdateAuthor: Update Attempted on record with id: 11
+2020-11-20 18:00:45.6962 INFO Authors - UpdateAuthor: record with id: 11 successfully updated
+2020-11-20 18:00:45.7330 INFO Authors - GetAuthors: Attempted Call
+2020-11-20 18:00:45.7380 INFO Authors - GetAuthors: Successfull
+2020-11-20 18:00:47.3668 INFO Books - GetBooks: Attempted Call
+2020-11-20 18:00:47.3787 INFO Books - GetBooks: Succesfull
+2020-11-20 18:37:07.0674 INFO Users - Login: Login Attempt from user customer3@gmail.com
+2020-11-20 18:37:07.4051 INFO Users - Login: customer3@gmail.com Successfully Authenticated
+2020-11-20 18:37:07.4134 INFO Users - Login: customer3@gmail.com Generating Token
+2020-11-20 18:37:09.6276 INFO Authors - GetAuthors: Attempted Call
+2020-11-20 18:37:09.8672 INFO Authors - GetAuthors: Successfull
+2020-11-20 18:37:10.8750 INFO Books - GetBooks: Attempted Call
+2020-11-20 18:37:10.9228 INFO Books - GetBooks: Succesfull
+2020-11-20 18:37:12.7455 INFO Books - GetBook: Attempted Call for id: 1002
+2020-11-20 18:37:12.7923 INFO Books - GetBook: Succesfull got record with id: 1002
+2020-11-20 18:37:32.7696 INFO Books - GetBooks: Attempted Call
+2020-11-20 18:37:32.7696 INFO Books - GetBooks: Succesfull
+2020-11-20 18:37:33.6769 INFO Authors - GetAuthors: Attempted Call
+2020-11-20 18:37:33.6913 INFO Authors - GetAuthors: Successfull
+2020-11-20 18:37:59.9384 INFO Authors - GetAuthor: Attempted Call for id: 11
+2020-11-20 18:38:00.0811 INFO Authors - GetAuthor: Succesfull got record with id: 11
+2020-11-20 18:38:04.0158 INFO Authors - GetAuthors: Attempted Call
+2020-11-20 18:38:04.0282 INFO Authors - GetAuthors: Successfull
+2020-11-20 18:38:05.0819 INFO Authors - GetAuthor: Attempted Call for id: 11
+2020-11-20 18:38:05.0958 INFO Authors - GetAuthor: Succesfull got record with id: 11
+2020-11-20 18:38:06.1744 INFO Books - GetBooks: Attempted Call
+2020-11-20 18:38:06.1744 INFO Books - GetBooks: Succesfull
+2020-11-20 18:38:07.2658 INFO Books - GetBook: Attempted Call for id: 1002
+2020-11-20 18:38:07.2971 INFO Books - GetBook: Succesfull got record with id: 1002
+2020-11-20 18:39:16.8769 INFO Users - Login: Login Attempt from user customer3@gmail.com
+2020-11-20 18:39:17.2550 INFO Users - Login: customer3@gmail.com Successfully Authenticated
+2020-11-20 18:39:17.2550 INFO Users - Login: customer3@gmail.com Generating Token
+2020-11-20 18:39:20.5896 INFO Books - GetBooks: Attempted Call
+2020-11-20 18:39:20.8026 INFO Books - GetBooks: Succesfull
+2020-11-20 18:39:22.0368 INFO Books - GetBook: Attempted Call for id: 1002
+2020-11-20 18:39:22.0866 INFO Books - GetBook: Succesfull got record with id: 1002
+2020-11-20 18:40:33.5013 INFO Users - Login: Login Attempt from user customer3@gmail.com
+2020-11-20 18:40:33.7856 INFO Users - Login: customer3@gmail.com Successfully Authenticated
+2020-11-20 18:40:33.7856 INFO Users - Login: customer3@gmail.com Generating Token
+2020-11-20 18:40:36.4299 INFO Books - GetBooks: Attempted Call
+2020-11-20 18:40:36.6442 INFO Books - GetBooks: Succesfull
+2020-11-20 18:40:37.6833 INFO Books - GetBook: Attempted Call for id: 1002
+2020-11-20 18:40:37.7248 INFO Books - GetBook: Succesfull got record with id: 1002
